@@ -22,7 +22,9 @@
 				min-width: 300px;
 				font-size: 16px;
 			}
-
+.current.menu-top.toplevel_page_post-taxonomy-settings img{
+padding-top:11px;
+}
 			.setting-section select {
 				margin: 0 10px;
 				width: 65%;
