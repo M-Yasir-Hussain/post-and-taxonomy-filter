@@ -49,15 +49,17 @@ This plugin allows you to do this very easily set output of taxonomy filter.
 `
 == Screenshots ==
 
-* Permalinks can be set for each and every post type from [here](http://www.example.com/wp-admin/admin.php?page=permalinks-customizer-settings). The empty permalink field for the post-type will use the Wordpress Permalink Settings.
+* After Installation you can see a <strong>POST Filter</strong> link in your dashboard. [here](http://www.example.com/wp-admin/admin.php?page=post-taxonomy-settings).
 
-* All the available tags which can be used for defining the permalinks are listed here. Some of the tags are defined here may only be use with [Permalinks Customizer](https://wordpress.org/plugins/permalinks-customizer/) plugin only. 
+* Select Post type and Taxonomy, which you want to apply filter. Default Post is selected in post type and Category is selected in taxonomy. 
 
-* Permalinks can easily be changed for the single post from its post edit page.
+* In Post and taxonomy Plugin can easily set the position of filter and How many post show in a row.
 
-* You can easily convert the custom permalink to permalink customizer by going on [permalinks settings page](http://www.example.com/wp-admin/admin.php?page=permalinks-customizer-convert-url)
+* In Post and taxonomy Plugin working in 2 type jQuery and Ajax its simple to select waht you wants. 
 
-* Permalink conversion varies from servr to server. So, make sure to convert the url at a time on depending on your server capability. 
+* You can easily change the output of filter HTML and Post HTMl that is visible to the user.
+
+* Post and Taxonomy Filter is simple and easy to set. 
 
 == Installation ==
 
