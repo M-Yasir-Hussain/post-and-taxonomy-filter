@@ -46,7 +46,7 @@ This plugin allows you to do this very easily set output of taxonomy filter.
 * <strong>[author_image]</strong> : Show Post Author Image
 * <strong>[author_link]</strong> : Show Post Author Link
 * <strong>[post_custom_name_field]</strong> : Show Post Custom Field .example: <strong>[post_custom_price_field]<strong>
-`
+
 == Screenshots ==
 
 * After Installation you can see a <strong>POST Filter</strong> link in your dashboard. [here](http://www.example.com/wp-admin/admin.php?page=post-taxonomy-settings).
