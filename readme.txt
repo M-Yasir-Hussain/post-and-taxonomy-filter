@@ -2,7 +2,7 @@
 Contributors: myasirhussain,sasiddiqui,aliya-yasir
 Tags: Post Filter, Taxonomy Filter, Post and Taxonomy Filter, Taxonomy Tabs, Filter
 Requires at least: 3.5
-Tested up to: 4.9
+Tested up to: 5.1
 License Key: GPLv3
 License URI: http://www.gnu.org/licenses/gpl.html
 Stable tag: 0.1
