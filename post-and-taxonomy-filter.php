@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Post and Taxonomy Filter
- * Version: 0.1
+ * Version: 0.2
  * Plugin URI: https://wordpress.org/plugins/post-and-taxonomy-filter/
  * Description: Post and Taxonomy jQuery or Ajax Filter
  * Author: M.Yasir Hussain
